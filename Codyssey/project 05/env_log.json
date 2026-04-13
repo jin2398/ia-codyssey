@@ -1,0 +1,83 @@
+[
+  {
+    "datetime": "2026-04-11 18:41:47",
+    "mars_base_internal_temperature": 22.0,
+    "mars_base_external_temperature": 3.07,
+    "mars_base_internal_humidity": 55.76,
+    "mars_base_external_illuminance": 696.55,
+    "mars_base_internal_co2": 0.0466,
+    "mars_base_internal_oxygen": 5.03
+  },
+  {
+    "datetime": "2026-04-11 18:41:52",
+    "mars_base_internal_temperature": 29.81,
+    "mars_base_external_temperature": 0.67,
+    "mars_base_internal_humidity": 55.91,
+    "mars_base_external_illuminance": 606.86,
+    "mars_base_internal_co2": 0.0822,
+    "mars_base_internal_oxygen": 6.09
+  },
+  {
+    "datetime": "2026-04-11 18:41:57",
+    "mars_base_internal_temperature": 24.87,
+    "mars_base_external_temperature": 0.1,
+    "mars_base_internal_humidity": 59.5,
+    "mars_base_external_illuminance": 682.56,
+    "mars_base_internal_co2": 0.0216,
+    "mars_base_internal_oxygen": 4.68
+  },
+  {
+    "datetime": "2026-04-11 18:42:02",
+    "mars_base_internal_temperature": 26.9,
+    "mars_base_external_temperature": 2.2,
+    "mars_base_internal_humidity": 55.32,
+    "mars_base_external_illuminance": 705.37,
+    "mars_base_internal_co2": 0.0783,
+    "mars_base_internal_oxygen": 4.67
+  },
+  {
+    "datetime": "2026-04-11 18:42:07",
+    "mars_base_internal_temperature": 24.57,
+    "mars_base_external_temperature": 16.01,
+    "mars_base_internal_humidity": 50.21,
+    "mars_base_external_illuminance": 684.33,
+    "mars_base_internal_co2": 0.0798,
+    "mars_base_internal_oxygen": 4.49
+  },
+  {
+    "datetime": "2026-04-11 18:42:12",
+    "mars_base_internal_temperature": 25.57,
+    "mars_base_external_temperature": 15.55,
+    "mars_base_internal_humidity": 54.56,
+    "mars_base_external_illuminance": 632.82,
+    "mars_base_internal_co2": 0.0804,
+    "mars_base_internal_oxygen": 6.66
+  },
+  {
+    "datetime": "2026-04-11 18:42:17",
+    "mars_base_internal_temperature": 18.49,
+    "mars_base_external_temperature": 16.07,
+    "mars_base_internal_humidity": 52.82,
+    "mars_base_external_illuminance": 608.86,
+    "mars_base_internal_co2": 0.084,
+    "mars_base_internal_oxygen": 6.34
+  },
+  {
+    "datetime": "2026-04-11 18:42:22",
+    "mars_base_internal_temperature": 25.38,
+    "mars_base_external_temperature": 9.95,
+    "mars_base_internal_humidity": 59.69,
+    "mars_base_external_illuminance": 561.75,
+    "mars_base_internal_co2": 0.053,
+    "mars_base_internal_oxygen": 6.63
+  },
+  {
+    "datetime": "2026-04-11 18:42:27",
+    "mars_base_internal_temperature": 27.29,
+    "mars_base_external_temperature": 14.47,
+    "mars_base_internal_humidity": 55.47,
+    "mars_base_external_illuminance": 674.74,
+    "mars_base_internal_co2": 0.0293,
+    "mars_base_internal_oxygen": 4.25
+  }
+]
