@@ -1,6 +1,0 @@
-mars_base_internal_temperature=1
-mars_base_external_temperature=1
-mars_base_internal_humidity=1
-mars_base_external_illuminance=1
-mars_base_internal_co2=1
-mars_base_internal_oxygen=1
